@@ -3,3 +3,36 @@
     margin: 0 auto;
     padding: 0 20px;
 }
+
+a {
+    text-decoration: none !important;
+}
+
+.centered .about h1 {
+    font-size: 1.5em;
+}
+
+.centered .about h2 {
+    font-weight: 400;
+    font-size: 1em;
+}
+
+.centered .about ul li a {
+    font-size: 1em;
+}
+
+.centered .about ul li a:hover {
+    color: red;
+}
+
+.avatar img {
+    width: 8em !important;
+}
+
+.cv-download {
+    display: inline-block;
+    margin-top: 10px;
+    background-color: black;
+    color: white;
+    padding: 10px 20px;
+}
