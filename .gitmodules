@@ -1,0 +1,3 @@
+[submodule "react-gol"]
+	path = react-gol
+	url = https://github.com/loehx/react-gol
